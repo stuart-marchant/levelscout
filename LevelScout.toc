@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: LevelScout
+## Notes: Leveling quest tracker: real XP rewards, turn-in locations, Questie pickups, zone suggestions and chat quest-link tags. /scout
+## Author: Stuart + Claude
+## Version: 0.4.0
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_02
+## AddonCompartmentFunc: LevelScout_OnCompartmentClick
+## OptionalDeps: Questie
+## SavedVariables: LevelScoutDB
+
+LevelScout.lua
+Tracker.lua
+Chat.lua
+Options.lua
